@@ -1,0 +1,9 @@
+{
+    "private_key_path" : "C:\\Users\\Administrator\\.ssh\\id_rsa",
+    "local_assets_dir" : "D:\\Typora\\assets",
+    "hostname" : "172.20.95.125",
+    "username" : "work",
+    "remote_dir" : "/home/work/apps/nginx/assets/",
+    "ssl_port" : 22,
+    "http_port" : 8090
+}
